@@ -2,6 +2,12 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 <div>
+<p> 
+Olá, me chamo Lucas, tenho 26 anos e sou desenvolvedor Full Stack. Atualmente estou finalizando um curso de mais de 2000 horas de programação (Front e Back), aprendi as principais tecnologias do mercado e estou sempre disposto a aprender novas. Sempre tive contato com tecnologia, isso me levou ao mundo da programação, hoje, já não consigo mais me imaginar trabalhando longe de um computador.
+</p>
+</div>
+
+<div>
 <a href="https://www.linkedin.com/in/lucas-cortes-098733208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
