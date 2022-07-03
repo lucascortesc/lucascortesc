@@ -11,9 +11,11 @@ Olá, me chamo Lucas, tenho 26 anos e sou desenvolvedor Full Stack. Atualmente e
 <a href="https://www.linkedin.com/in/lucas-cortes-098733208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<div>
 <a href="https://www.linkedin.com/in/lucas-cortes-098733208/" target="_blank">
-### Meu Portfólio
+Meu Portfólio
 </a>
+</div>
 
 ### Git Status
 
