@@ -1,4 +1,11 @@
-### Hi there 👋
+## Olá, me chamo Lucas! 
+### Bem vindo ao meu perfil GitHub 👋
+
+<div>
+<a href="https://github.com/lucascortesc">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascortesc&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascortesc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **lucascortesc/lucascortesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
